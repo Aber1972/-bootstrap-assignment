@@ -185,9 +185,9 @@ button[type="submit"] {
   transition: 0.3s ease;
 }
 .carousel-caption {
-  background: rgba(0, 0, 0, 0.6); /* نیمه شفاف */
-  padding: 10px 15px; /* کوچکتر از قبل */
+  background: rgba(0, 0, 0, 0.6);
+  padding: 10px 15px;
   border-radius: 8px;
-  max-width: 350px; /* عرض باکس رو محدود کن */
-  margin: 0 auto; /* وسط‌چینش کن */
+  max-width: 350px;
+  margin: 0 auto;
 }
